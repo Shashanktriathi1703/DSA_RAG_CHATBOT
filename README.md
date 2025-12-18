@@ -335,9 +335,6 @@ npm start
 - Validate all user inputs
 - Sanitize MongoDB queries
 
-## 📝 License
-
-MIT
 
 ## 🤝 Contributing
 
