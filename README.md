@@ -1,4 +1,6 @@
 # 🚀 DSA RAG Chatbot - Complete MERN Stack Application
+<img width="1812" height="922" alt="image" src="https://github.com/user-attachments/assets/0d411af4-561d-409d-a667-2826b5f8918b" />
+
 
 A full-stack AI-powered chatbot for Data Structures and Algorithms learning, built with RAG (Retrieval-Augmented Generation) using Pinecone vector database and Google Gemini AI.
 
