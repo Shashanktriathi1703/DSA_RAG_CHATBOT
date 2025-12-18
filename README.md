@@ -4,6 +4,8 @@
 
 A full-stack AI-powered chatbot for Data Structures and Algorithms learning, built with RAG (Retrieval-Augmented Generation) using Pinecone vector database and Google Gemini AI.
 
+<img width="1803" height="917" alt="image" src="https://github.com/user-attachments/assets/b4b71e3e-7ba2-4bd0-84fa-6e06ef772bb0" />
+
 ## 📁 Project Structure
 
 ```
